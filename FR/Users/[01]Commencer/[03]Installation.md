@@ -31,7 +31,7 @@ Chez notre partenaire Webstrator retrouvez vos données ici :
 ---
 
 
-#### Etape N°2 : Nom du site
+#### Etape N°2 : Nom du site web
 
 ![Image site install](Assets/Img/Installation/Install6.png "install.php sur le site")
 
