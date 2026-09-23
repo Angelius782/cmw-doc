@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Royaume Nega-nebulas
+  structure:
+    - type: space
+      key: space-1
+      title: Royaume Nega-nebulas
+      path: home
+      default: true
+      content:
+        directory: ./home
+        language: fr
