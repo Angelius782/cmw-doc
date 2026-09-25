@@ -4,34 +4,17 @@
 
 ## 😀 Bidouillage informatique
 
-* [🌏 Liens](bidouillage-informatique/liens.md)
 * [Manip](bidouillage-informatique/manip.md)
-* [Applications](bidouillage-informatique/applications.md)
 
 ## configuration - tutos
 
-* [😄 Page 1](configuration-tutos/page-1.md)
+* [😄 Introduction](configuration-tutos/introduction.md)
+* [Applications recommandé](configuration-tutos/applications-recommande.md)
+* [🌏 Liens](configuration-tutos/liens.md)
 
-## 😃 MineCraft
+## 😀 Conseils Jeux
 
-* [Wiki - ce qu'il faut savoir](minecraft/wiki-ce-quil-faut-savoir.md)
-
-## 😀 Eurotruck Simulator 2
-
-* [Liste des serveurs](eurotruck-simulator-2/liste-des-serveurs.md)
-* [Map Autonomes](eurotruck-simulator-2/map-autonomes.md)
-* [Mods Locaux & Workshops](eurotruck-simulator-2/mods-locaux-and-workshops.md)
-
-## 😀 American Truck Simulator
-
-* [Mods Locaux & Workshops](american-truck-simulator/mods-locaux-and-workshops.md)
-* [Map Autonomes](american-truck-simulator/map-autonomes.md)
-* [Liste des serveurs](american-truck-simulator/liste-des-serveurs.md)
-
-## Snowrunner / mudrunner...
-
-* [Page 2](snowrunner-mudrunner.../page-2.md)
-
-## 😀 Autres jeux
-
-* [Liste des Jeux](autres-jeux/liste-des-jeux.md)
+* [introduction](conseils-jeux/introduction.md)
+* [🟫 Minecraft](conseils-jeux/minecraft.md)
+* [Euro Truck Simulator 2](conseils-jeux/euro-truck-simulator-2.md)
+* [American Truck Simulator](conseils-jeux/american-truck-simulator.md)
