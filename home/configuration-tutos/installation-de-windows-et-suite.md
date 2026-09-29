@@ -37,7 +37,7 @@ dans la partie tweak et config, vous pourrez choisir d'activer ou de desactiver 
 
 
 
-#### Mise a jour du systeme
+## Mise a jour du systeme
 
 une fois tout vos logiciels installé (avant quelquonque parametrage, réouvrez le terminal en administateur et coller cette commande: winget upgrade --all --include-unknown
 
