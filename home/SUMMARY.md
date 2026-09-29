@@ -2,15 +2,16 @@
 
 * [😄 Bienvenue au royaume Nega-nebulas](README.md)
 
-## 😀 Bidouillage informatique
-
-* [Manip](bidouillage-informatique/manip.md)
-
 ## configuration - tutos
 
 * [😄 Introduction](configuration-tutos/introduction.md)
+* [installation de windows et suite](configuration-tutos/installation-de-windows-et-suite.md)
 * [Applications recommandé](configuration-tutos/applications-recommande.md)
 * [🌏 Liens](configuration-tutos/liens.md)
+
+## 😀 Bidouillage informatique
+
+* [Untitled](bidouillage-informatique/untitled.md)
 
 ## 😀 Conseils Jeux
 

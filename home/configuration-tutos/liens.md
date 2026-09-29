@@ -13,3 +13,10 @@ Winget
 Chocolatey
 
 iwr -useb https://christitus.com/win | iex
+
+Dans l'outils CMD / PowerShell
+
+* winget update & winget update --all&#x20;
+
+Permet de mettre à jour la plupart des applications sur votre PC.&#x20;
+
