@@ -10,3 +10,10 @@ site:
       content:
         directory: ./home
         language: fr
+    - type: space
+      key: space-2
+      title: Copy of Royaume Nega-nebulas
+      path: copy-of-royaume-nega-nebulas
+      draft: true
+      content:
+        directory: ./copy-of-royaume-nega-nebulas
