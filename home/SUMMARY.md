@@ -18,3 +18,15 @@
 * [🟫 Minecraft](conseils-jeux/minecraft.md)
 * [Euro Truck Simulator 2](conseils-jeux/euro-truck-simulator-2.md)
 * [American Truck Simulator](conseils-jeux/american-truck-simulator.md)
+
+## Bon plan et santé
+
+* [Page 3](bon-plan-et-sante/page-3.md)
+
+## Esoterisme
+
+* [Page 2](esoterisme/page-2.md)
+
+## Divers
+
+* [Page 4](divers/page-4.md)
