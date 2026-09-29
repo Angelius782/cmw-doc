@@ -4,8 +4,8 @@
 
 ## configuration - tutos
 
-* [😄 Introduction](configuration-tutos/introduction.md)
 * [installation de windows et suite](configuration-tutos/installation-de-windows-et-suite.md)
+* [Page 1](configuration-tutos/page-1.md)
 * [Applications recommandé](configuration-tutos/applications-recommande.md)
 * [🌏 Liens](configuration-tutos/liens.md)
 
@@ -15,7 +15,6 @@
 
 ## 😀 Conseils Jeux
 
-* [introduction](conseils-jeux/introduction.md)
 * [🟫 Minecraft](conseils-jeux/minecraft.md)
 * [Euro Truck Simulator 2](conseils-jeux/euro-truck-simulator-2.md)
 * [American Truck Simulator](conseils-jeux/american-truck-simulator.md)
