@@ -17,13 +17,15 @@ il vous faudra dans tout les cas une clé USB de 8Go minimum pouvant être forma
 
 ## Post installation Windows 11
 
-une fois windows installé, commencez par installer vos pilotes, c'est le plus important pour que votre systeme fonctionne correctement. une fois fait, généralement il y a des logiciels a (ré)installer. pour gagner du temps, et proceder a des installations automatique, plusieurs possibilités:
+une fois Windows installé, commencez par installer vos pilotes, c'est le plus important pour que votre système fonctionne correctement. (si vous ne trouvez plus le pilote, le site de l'assembleur (dell, HP, acer... ) ou bien du constructeur (MSI, NVidia...) et en 3e point driverscloud vous aidera a les retrouver.
 
-(si vous avez choisi d'installer windows via l'iso windows arium, un utilitaire s'ouvrira au depart, qui contient aussi quelques logiciels)
+Une fois fait, généralement il y a des logiciels a (ré)installer. pour gagner du temps, et procéder a des installations automatique, plusieurs possibilités:
+
+(si vous avez choisi d'installer Windows via l'iso windows arium, un utilitaire s'ouvrira au depart, qui contient aussi quelques logiciels)
 
 #### ⇒ le site ninite.com
 
-Il vous permet de choisir dans leur bibliotheque les logiciels désiré. une fois fait, vous telecharger la petite application, et il s'occupera de toute les installations, en configuration par defaut.&#x20;
+Il vous permet de choisir dans leur bibliothèque les logiciels désiré. une fois fait, vous telecharger la petite application, et il s'occupera de toute les installations, en configuration par defaut.&#x20;
 
 
 
@@ -31,20 +33,20 @@ Il vous permet de choisir dans leur bibliotheque les logiciels désiré. une foi
 
 via le terminal en mode administrateur, tapez ou coller la commande " iwr -useb https://christitus.com/win | iex " et envoyez.
 
-de la vous aurez une premiere fenetre vous permettant d'installer, mettre a jour tout les logiciels cité.
+de la vous aurez une première fenetre vous permettant d'installer, mettre a jour tout les logiciels cité.
 
-dans la partie tweak et config, vous pourrez choisir d'activer ou de desactiver des fonctions windows utile ou non, pouvant optimiser votre systeme. (attention a bien parametrer, si vous ne savez pas, laissez tel quel sur l'option. personnelement je vous recommande d'utiliser ce reglage.)
-
-
-
-## Mise a jour du systeme
-
-une fois tout vos logiciels installé (avant quelquonque parametrage, réouvrez le terminal en administateur et coller cette commande: winget upgrade --all --include-unknown
-
-cela telechargera toutes les mises a jour du pc (windows et eventuellement quelques logiciels).
-
-cette operation peut etre reutiliser plus tard pour mettre a jour votre systeme (une partie seulement car cette commande n'inclus pas tout les logiciels fournit par internet.
+dans la partie tweaks et config, vous pourrez choisir d'activer ou de désactiver des fonctions Windows utile ou non, pouvant optimiser votre système. (attention a bien paramétrer, si vous ne savez pas, laissez tel quel sur l'option. personnellement je vous recommande d'utiliser ce réglage.)
 
 
 
-apres un autre redemarrage en plus de ceux demandé avant, votre systeme windows est pret a etre utiliser et personnalisé de vos propre parametres.
+## Mise a jour du système
+
+une fois tout vos logiciels installé (avant quoiqu'onques parametrage, réouvrez le terminal en administrateur et coller cette commande: winget upgrade --all --include-unknown
+
+cela téléchargera toutes les mises a jour du pc (Windows et éventuellement quelques logiciels).
+
+cette opération peut être réutiliser plus tard pour mettre a jour votre systeme (une partie seulement car cette commande n'inclus pas tout les logiciels fournit par internet.
+
+
+
+Après un dernier redémarrage en plus de ceux demandé avant, votre système Windows est prêt à être utiliser et personnalisé de vos propre paramètres et personnalisations.
